@@ -1,24 +1,11 @@
-# README
+# DOG SITTER BNB
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+À priori, les models sont simples : il y a un model dogsitter et un model dog . Un dogsitter peut promener plusieurs dog lors d'une stroll (promenade, en anglais) ; et un dog peut avoir plusieurs dogsitter via les stroll.
 
-Things you may want to cover:
+Maintenant tu veux préciser la ville des promeneurs et des chiens pour faire un super algorithme de matching. Tu devras donc créer un model City avec comme attribut city_name. Chaque ville contient plusieurs promeneurs et plusieurs chiens mais un chien et un promeneur ne peuvent appartenir qu'a une ville.
 
-* Ruby version
+## Afin de pouvoir le tester, ne pas oublier de faire un :
 
-* System dependencies
+Bundle install
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# MERCI DE TA VISITE !
